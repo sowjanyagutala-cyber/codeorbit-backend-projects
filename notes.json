@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "My First Note",
+    "content": "I am learning Node.js CRUD API"
+  },
+  {
+    "id": 2,
+    "title": "My First Note",
+    "content": "I am learning Node.js CRUD API"
+  },
+  {
+    "id": 3,
+    "title": "My First Note",
+    "content": "I am learning Node.js CRUD API"
+  },
+  {
+    "id": 4,
+    "title": "My First Note",
+    "content": "I am learning Node.js CRUD API"
+  },
+  {
+    "id": 5,
+    "title": "My First Note",
+    "content": "I am learning Node.js CRUD API"
+  },
+  {
+    "id": 6,
+    "title": "My First Note",
+    "content": "I am learning Node.js CRUD API"
+  },
+  {
+    "id": 7,
+    "title": "My First Note",
+    "content": "I am learning Node.js CRUD API"
+  },
+  {
+    "id": 8,
+    "title": "My First Note",
+    "content": "I am learning Node.js CRUD API"
+  }
+]
